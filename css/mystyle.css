@@ -43,14 +43,10 @@ html, body {
     margin: 0 0;
     padding: 0 0;
     background-color:rgb(224,224,224);
-}
-
-.navbar {
-    font-family: 'Lato-300';
+    font-family: 'Lato-300', sans-serif;
 }
 
 .container{
-    font-family: 'Lato-300';
     font-size: 20px;
 }
 
@@ -65,7 +61,6 @@ html, body {
 
 .background-about{
     text-align: center;
-    font-family: 'Lato-300';
     color: rgb(181,190,0);
     font-size: 40px;
     background: url('../images/bg3.jpg') no-repeat 10% 10%/ cover ;
@@ -75,7 +70,6 @@ html, body {
 
 .background-general{
     text-align: center;
-    font-family: 'Lato-300';
     color: rgb(181,190,0);
     font-size: 40px;
     background: url('../images/bg2.jpg') no-repeat 10% 10%/ cover ;
@@ -85,7 +79,6 @@ html, body {
 
 .background-contact{
     text-align: center;
-    font-family: 'Lato-300';
     color: rgb(181,190,0);
     font-size: 40px;
     background: url('../images/bg5.jpg') no-repeat 1% 40%/ cover ;
@@ -95,7 +88,6 @@ html, body {
 
 .background-news{
     text-align: center;
-    font-family: 'Lato-300';
     color: rgb(181,190,0);
     font-size: 40px;
     background: url('../images/bg6.jpg') no-repeat 1% 40%/ cover ;
@@ -113,21 +105,18 @@ html, body {
 
 .title-1{
     text-align: center;
-    font-family: 'Lato-300';
     font-weight: bold;
     color: rgb(181,190,0);
     font-size: 40px;
 }
 
 .p-0{  
-    font-family: 'Lato-300';
     font-size: 30px;
     font-display: center;
 }
 
 .p-1{
     text-align: center;
-    font-family: 'Lato-300';
     font-size: 30px;
     background: url('../images/bg.jpg') no-repeat 80% 10%/ cover fixed;
     /* background-size: auto 100%;
@@ -147,7 +136,6 @@ html, body {
 }
 
 .p-2{
-    font-family: 'Lato-300';
     font-size: 18px;
 }
 
