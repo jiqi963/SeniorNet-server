@@ -9,33 +9,31 @@
 
 
 
-/* @media screen and (max-width:992px) {
-    .background-1{
-        text-align: center;
-        font-family: 'Lato-300';
-        color: rgb(181,190,0);
-        font-size: 80px;
-        background: url('../images/bg1.jpg') no-repeat 10% 10%/ cover ;
-        height: 300px;
-        width: auto;
-    
-    }
+@media screen and (max-width:992px) {
+.background-news{
+    text-align: center;
+    font-family: 'Lato-300';
+    color: rgb(181,190,0);
+    font-size: 40px;
+    background: url('../images/bg6.jpg') no-repeat 1% 40%/ cover ;
+    height: 200px;
+    width: auto;
+}
 
 }
 
 @media screen and (max-width:768px) {
-    .background-1{
-        text-align: center;
-        font-family: 'Lato-300';
-        color: rgb(181,190,0);
-        font-size: 80px;
-        background: url('../images/bg1.jpg') no-repeat 10% 10%/ cover ;
-        height: 200px;
-        width: auto;
-    
-    }
+.background-news{
+    text-align: center;
+    font-family: 'Lato-300';
+    color: rgb(181,190,0);
+    font-size: 40px;
+    background: url('../images/bg6.jpg') no-repeat 1% 40%/ cover ;
+    height: 100px;
+    width: auto;
+}
 
-} */
+}
 
 li{
     font-size: 20px;
