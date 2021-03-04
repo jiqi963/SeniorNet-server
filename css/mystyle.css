@@ -99,10 +99,6 @@ html, body {
     font-size: 40px;
 }
 
-/* .general-p{
-
-} */
-
 .title-1{
     text-align: center;
     font-weight: bold;
@@ -141,4 +137,13 @@ html, body {
 
 .p-3{
     text-align: center;
+}
+
+.bg-blue{
+    color: white;
+    background-color: #004a61;
+}
+
+.bg-green{
+    background-color: #c0cd28;
 }
